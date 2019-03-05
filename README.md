@@ -1,5 +1,5 @@
 # HackCU-V
-A hackathon organized at University of Colorado Boulder
+A hackathon organized at University of Colorado Boulder on 23rd and 24th February 2019
 
 ## Hack: Run n Hike Monitor
 - Offline path tracking using smartphone location sensor at regular intervals.
