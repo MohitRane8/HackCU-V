@@ -7,6 +7,9 @@ A hackathon organized at University of Colorado Boulder on 23rd and 24th Februar
 - Useful in areas with no data connectivity.
 - The tracked path is shown on Google Maps by running a python program which uses Google Maps API.
 
+Example Track Image:
+![alt text](https://github.com/MohitRane8/HackCU-V/blob/master/example_track_image.PNG)
+
 Contritbutors:
 1. Mohit Rane
 2. Nikhil Divekar
